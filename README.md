@@ -20,7 +20,7 @@
 <body>
   <table>
     <tr>
-      <th colspan="5">HTML Tag</th>
+      <th colspan="5">HTML Tags</th>
     </tr>
     <tr>
       <td> a </td>
