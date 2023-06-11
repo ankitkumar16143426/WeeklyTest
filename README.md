@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>10x5 Table</title>
+  <title>HTML Table Tags</title>
   <style>
     table {
       border-collapse: collapse;
