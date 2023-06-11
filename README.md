@@ -8,13 +8,11 @@
       border-collapse: collapse;
       width: 50%;
     }
-
     th, td {
       border: 2px solid black;
       padding: 7px;
       text-align: center;
     }
-
   </style>
 </head>
 <body>
